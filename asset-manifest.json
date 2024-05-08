@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jazzduo/static/css/main.ff6ff91a.css",
-    "main.js": "/jazzduo/static/js/main.861fbe4b.js",
+    "main.js": "/jazzduo/static/js/main.d2a44de7.js",
     "static/media/mainpic.jpeg": "/jazzduo/static/media/mainpic.fd76052e6a661b5ea9a8.jpeg",
     "static/media/logo.svg": "/jazzduo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jazzduo/index.html",
     "main.ff6ff91a.css.map": "/jazzduo/static/css/main.ff6ff91a.css.map",
-    "main.861fbe4b.js.map": "/jazzduo/static/js/main.861fbe4b.js.map"
+    "main.d2a44de7.js.map": "/jazzduo/static/js/main.d2a44de7.js.map"
   },
   "entrypoints": [
     "static/css/main.ff6ff91a.css",
-    "static/js/main.861fbe4b.js"
+    "static/js/main.d2a44de7.js"
   ]
 }
