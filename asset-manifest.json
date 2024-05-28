@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jazzduo/static/css/main.b885a23d.css",
-    "main.js": "/jazzduo/static/js/main.2998d6fa.js",
+    "main.js": "/jazzduo/static/js/main.e877b7e7.js",
     "static/media/5.jpeg": "/jazzduo/static/media/5.95d04fc9318319b41857.jpeg",
     "static/media/mainpic.jpeg": "/jazzduo/static/media/mainpic.fd76052e6a661b5ea9a8.jpeg",
     "static/media/4.jpeg": "/jazzduo/static/media/4.357f05535f2397ff73af.jpeg",
@@ -10,10 +10,10 @@
     "static/media/logo.svg": "/jazzduo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jazzduo/index.html",
     "main.b885a23d.css.map": "/jazzduo/static/css/main.b885a23d.css.map",
-    "main.2998d6fa.js.map": "/jazzduo/static/js/main.2998d6fa.js.map"
+    "main.e877b7e7.js.map": "/jazzduo/static/js/main.e877b7e7.js.map"
   },
   "entrypoints": [
     "static/css/main.b885a23d.css",
-    "static/js/main.2998d6fa.js"
+    "static/js/main.e877b7e7.js"
   ]
 }
